@@ -1,0 +1,16 @@
+{
+  "name": "superagent",
+  "version": "1.0.0",
+  "description": " 一个最简单的 superagent 应用 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
+}

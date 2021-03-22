@@ -1,5 +1,15 @@
 {
+  "name": "express",
+  "version": "1.0.0",
+  "description": " 一个最简单的 express 应用 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "utility": "^1.17.0"
   }
 }
